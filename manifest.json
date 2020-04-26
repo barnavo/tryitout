@@ -1,0 +1,7 @@
+{
+  "name": "demo",
+  "short_name": "Gopkg.lock",
+  "lang": "en-US",
+  "start_url": "/demo.php",
+  "display": "standalone"
+}
